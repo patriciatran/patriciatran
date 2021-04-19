@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**patriciatran/patriciatran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Patricia and I'm a PhD candidate in Freshwater and Marine Sciences at the University of Wisconsin-Madison, USA. 
 
-Here are some ideas to get you started:
+### :microscope: Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aquatic Microbial Ecology
+- Genomics
+- Biogeochemistry
+
+### :email: contact information
+
+Patricia Tran
+ptran5@wisc.edu
+
+### You can find me on:
+[![Twitter](https://img.shields.io/badge/Twitter-@patriciatran_-informational?style=social&logo=twitter&logoColor=blue&color=2bbc8a)](https://twitter.com/patriciatran_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)](https://www.linkedin.com/in/patriciatran/)
+[![ResarchGate](https://img.shields.io/badge/ResearchGate--informational?style=social&logo=researchgate&logoColor=2bbc8a?&color=2bbc8a)](https://www.researchgate.net/profile/Patricia-Tran-2)
+[![GoogleScholar](https://img.shields.io/badge/Google_Scholar--informational?style=social&logo=google-scholar&logoColor=blue&color=2bbc8a)](https://scholar.google.com/citations?user=NVhtx1YAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID--informational?style=social&logo=ORCID&logoColor=success&color=2bbc8a)](https://orcid.org/0000-0003-3948-3938)
+
