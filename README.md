@@ -14,7 +14,6 @@ Patricia Tran
 ptran5@wisc.edu
 
 ### You can find me on:
-[![Twitter](https://img.shields.io/badge/Twitter-@patriciatran_-informational?style=social&logo=twitter&logoColor=blue&color=2bbc8a)](https://twitter.com/patriciatran_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)](https://www.linkedin.com/in/patriciatran/)
 [![ResarchGate](https://img.shields.io/badge/ResearchGate--informational?style=social&logo=researchgate&logoColor=2bbc8a?&color=2bbc8a)](https://www.researchgate.net/profile/Patricia-Tran-2)
 [![GoogleScholar](https://img.shields.io/badge/Google_Scholar--informational?style=social&logo=google-scholar&logoColor=blue&color=2bbc8a)](https://scholar.google.com/citations?user=NVhtx1YAAAAJ&hl=en)
