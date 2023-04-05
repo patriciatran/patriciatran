@@ -11,7 +11,7 @@ My name is Patricia and I'm a PhD candidate in Freshwater and Marine Sciences at
 ### :email: contact information
 
 Patricia Tran
-ptran5@wisc.edu
+ptran5@wisc.edu & contact.patriciatran@gmail.com
 
 ### You can find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)](https://www.linkedin.com/in/patriciatran/)
