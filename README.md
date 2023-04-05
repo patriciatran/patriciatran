@@ -9,8 +9,6 @@ My name is Patricia and I'm a PhD candidate in Freshwater and Marine Sciences at
 - Biogeochemistry
 
 ### :email: contact information
-
-Patricia Tran
 ptran5@wisc.edu & contact.patriciatran@gmail.com
 
 ### You can find me on:
