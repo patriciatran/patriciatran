@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name is Patricia and I'm a PhD candidate in Freshwater and Marine Sciences at the University of Wisconsin-Madison, USA. 
+My name is Patricia and I'm a PhD candidate at the University of Wisconsin-Madison, USA. I will be graduating in May 2023, and I am excited to apply my subject-matter expertise (see below) to new projects! On this page, you will find example of code for some published projects and workshops. Keep in mind I have private repos too :) 
 
 ### :microscope: Research Interests
 
-- Aquatic Microbial Ecology
+- Microbiome
 - Genomics
 - Biogeochemistry
+- Multi-omics technologies
 
 ### :email: contact information
 ptran5@wisc.edu & contact.patriciatran@gmail.com
