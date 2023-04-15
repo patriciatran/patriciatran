@@ -8,6 +8,7 @@ My name is Patricia and I'm a PhD candidate at the University of Wisconsin-Madis
 - Genomics
 - Biogeochemistry
 - Multi-omics technologies
+- Pipeline development
 
 ### :email: contact information
 ptran5@wisc.edu & contact.patriciatran@gmail.com
