@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Patricia and I'm a PhD candidate at the University of Wisconsin-Madison, USA. I will be graduating in May 2023, and I am excited to apply my subject-matter expertise (see below) to new projects! On this page, you will find example of code for some published projects and workshops. Keep in mind I have private repos too :) 
+My name is Patricia and I'm a PhD candidate at the University of Wisconsin-Madison, USA. I will be graduating in May 2023, and I am excited to apply my data analysis skills to new projects! On this page, you will find example of code for some published projects and workshops. Keep in mind I have private repos too :) 
 
 ### :microscope: Research Interests
 
