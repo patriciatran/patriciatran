@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Patricia and I'm a PhD candidate at the University of Wisconsin-Madison, USA. I will be graduating in May 2023, and I am excited to apply my data analysis skills to new projects! On this page, you will find example of code for some published projects and workshops. Keep in mind I have private repos too :) 
+My name is Patricia and I recently graduated with my PhD at the University of Wisconsin-Madison, USA, where I worked on microbiome, genomics and aquatic science research. I am currently seeking a new role, and I am excited to apply my data analysis skills to solve new problems and help others! On this page, you will find example of code for some published projects and workshops. Keep in mind I have private repos too :) 
 
 ### :microscope: Research Interests
 
@@ -9,9 +9,10 @@ My name is Patricia and I'm a PhD candidate at the University of Wisconsin-Madis
 - Biogeochemistry
 - Multi-omics technologies
 - Pipeline development
+- Health
 
 ### :email: contact information
-ptran5@wisc.edu & contact.patriciatran@gmail.com
+contact.patriciatran@gmail.com
 
 ### You can find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)](https://www.linkedin.com/in/patriciatran/)
