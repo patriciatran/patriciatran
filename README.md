@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Patricia and I recently graduated with my PhD at the University of Wisconsin-Madison, USA, where I worked on microbiome, genomics and aquatic science research. I am currently seeking a new role, and I am excited to apply my data analysis skills to solve new problems and help others! On this page, you will find example of code for some published projects and workshops. Keep in mind I have private repos too :) 
-
+My name is Patricia Tran and I'm a Bioinformatics Scientist for the Department of Bacteriology at UW-Madison. 
 ### :microscope: Research Interests
 
 - Microbiome
