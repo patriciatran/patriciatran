@@ -1,17 +1,9 @@
 ### Hi there 👋
 
 My name is Patricia Tran and I'm a Bioinformatics Scientist for the Department of Bacteriology at UW-Madison. 
-### :microscope: Research Interests
-
-- Microbiome
-- Genomics
-- Biogeochemistry
-- Multi-omics technologies
-- Pipeline development
-- Health
 
 ### :email: contact information
-contact.patriciatran@gmail.com
+ptran5@wisc.edu
 
 ### You can find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)](https://www.linkedin.com/in/patriciatran/)
