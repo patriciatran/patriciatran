@@ -9,7 +9,7 @@ I use, teach and train researchers on how to use bioinformatics and data science
 I got involved in bioinformatics through my training in biology and environmental sciences. Since then, I've learnt, implemented, and taught (micro)-biologists of all career stages on how to use computing and data science to make analyse their data, and gain practical skills to make their research more pleasant. I have enjoyed an interdisciplinary science training over the years, having obtained a PhD in Freshwater Sciences, my MS in (Micro)-Biology, my graduate certificate in Bioinformatics, and my BS Honors in Conservation Biology. 
 
 # Outside work
-I enjoy multiple manual hobbies that connect me to the world, such as gardening, climbing, biking, and ceramics wheel throwing. 
+I enjoy hobbies that connect me to the world and spark creativity, such as gardening, climbing, biking, and ceramics wheel throwing. 
 
 ### :email: contact information
 ptran5@wisc.edu
